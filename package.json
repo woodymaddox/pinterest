@@ -2,7 +2,7 @@
   "name": "pinterest",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/javascripts/helpers/main.jss",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production --module-bind js=babel-loader"
@@ -36,5 +36,11 @@
     "webpack": "^4.31.0",
     "webpack-cli": "^3.3.2",
     "webpack-dev-server": "^3.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
   }
 }

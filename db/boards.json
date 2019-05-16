@@ -1,0 +1,31 @@
+{
+	"boards": [{
+			"id": "board1",
+			"name": "Garden Gnomes"
+		},
+		{
+			"id": "board2",
+			"name": "Cool Toasters"
+		},
+		{
+			"id": "board3",
+			"name": "Happy Meal Toys"
+		},
+		{
+			"id": "board4",
+			"name": "Adding Machines"
+		},
+		{
+			"id": "board5",
+			"name": "Fried Foods"
+		},
+		{
+			"id": "board6",
+			"name": "Toilet Seat Covers"
+		},
+		{
+			"id": "board7",
+			"name": "Dino Costumes"
+		}
+	]
+}
